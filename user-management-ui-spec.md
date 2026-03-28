@@ -5,8 +5,8 @@
 | Field | Value |
 |------|------|
 | Document Name | User Management UI Specification |
-| Version | 1.1 |
-| Author | Product Team |
+| Version | 1.0 |
+| Author | Zuhre Mentes |
 | Status | Final |
 | Date | 2026 |
 
